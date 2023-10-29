@@ -24,6 +24,10 @@ How many neurons, layers, and activation functions did you select for your neura
 
 
 
+
+
+
+
 Were you able to achieve the target model performance?
 What steps did you take in your attempts to increase model performance?
 

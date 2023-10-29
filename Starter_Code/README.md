@@ -1,4 +1,4 @@
-FOR IMAGES PLEASE REVIEW DOC FILE
+FOR IMAGES PLEASE REVIEW DOC FILE (DEEP LEARNING REPORT)
 
 overview:
 The purpose of this program is to create a tool for the nonprofit foundation Alphabet Soup that can help it select the applicants for funding with the best chance of success in their ventures. 
